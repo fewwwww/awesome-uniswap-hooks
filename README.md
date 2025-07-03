@@ -81,6 +81,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Unimon](https://www.unimon.app/): NFT battle game contained and managed inside of a Uniswap V4 hook. Unimon utilizes Uniswap v4 hook to mint NFT after swapping with specfic pool.
 - [Super DCA](https://superdca.org/): Time-wieghted Average Market Maker using Uniswap V4 hooks for dynamic fees and Curve-like gauge for controlling reward token distribution across pools.
 - [UniDerp](https://uniderp.fun/): Meme coin launchpad that distributes trading fee with creators, referers, and platform itself with Uniswap v4 hook.
+- [EulerSwap](https://app.euler.finance/swap): DEX with built-in AMM powered by Euler’s lending infra and integrated with Uniswap v4's hook architecture.
 
 ### From Uniswap
 
