@@ -82,6 +82,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Super DCA](https://superdca.org/): Time-wieghted Average Market Maker using Uniswap V4 hooks for dynamic fees and Curve-like gauge for controlling reward token distribution across pools.
 - [UniDerp](https://uniderp.fun/): Meme coin launchpad that distributes trading fee with creators, referers, and platform itself with Uniswap v4 hook.
 - [EulerSwap](https://app.euler.finance/swap): DEX with built-in AMM powered by Euler’s lending infra and integrated with Uniswap v4's hook architecture.
+- [USDL](https://www.paxos.com/blog/paxos-international-partners-with-predicate-to-meet-regulatory-requirements-for-lift-dollar-on-uniswap): Stable coin issued by Paxos with built‑in compliance checks of verification of AML/CFT compliance and jurisdictional restrictions.
 
 ### From Uniswap
 
