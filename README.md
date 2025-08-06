@@ -83,6 +83,8 @@ _A collection of hooks from Uniswap and community developers._
 - [UniDerp](https://uniderp.fun/): Meme coin launchpad that distributes trading fee with creators, referers, and platform itself with Uniswap v4 hook.
 - [EulerSwap](https://app.euler.finance/swap): DEX with built-in AMM powered by Euler’s lending infra and integrated with Uniswap v4's hook architecture.
 - [USDL](https://www.paxos.com/blog/paxos-international-partners-with-predicate-to-meet-regulatory-requirements-for-lift-dollar-on-uniswap): Stable coin issued by Paxos with built‑in compliance checks of verification of AML/CFT compliance and jurisdictional restrictions.
+- [Zora](https://zora.co/): Creator coin launchpad that utilizes hooks for fee conversion into payout token and reward distribution.
+- [Clanker](https://www.clanker.world/): Meme coin launchpad that uses hooks for protocol fee management and MEV module integration.
 
 ### From Uniswap
 
