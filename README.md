@@ -137,6 +137,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Super DCA Gauge Hook](https://github.com/Super-DCA-Tech/super-dca-gauge): A Uniswap v4 hook for dynamic fee adjustments and fair reward distribution. It enables fee reductions for allowlisted addresses during swaps and distributes Super DCA token rewards to liquidity providers through staking. Rewards are allocated via the `beforeAddLiquidity` and `beforeRemoveLiquidity` hooks, and DCA token holders can influence reward emissions to pools through Curve-style staking.
 - [Encrypted Limit Order Hook](https://github.com/marronjo/iceberg-cofhe): A hook that enables FHE encrypted 'iceberg' orders. Utilising the [Fhenix](https://www.fhenix.io/) coprocessor for encryption/decryption operations to allow users to keep their order size and direction hidden.
 - [Detox Hook](https://ethglobal.com/showcase/detox-hook-mppeg): A hook that turns MEV into LP earnings, using Pyth oracle data to detect arbitrage, capture profits, and redirect value back to liquidity providers.
+- [PureFi Verifier Hook](https://github.com/purefiprotocol/purefi-verifier-hook): A compliance-focused hook ensuring that all transactions meet specified compliance criteria.
 
 ### From Hackathon
 
