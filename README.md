@@ -85,6 +85,8 @@ _A collection of hooks from Uniswap and community developers._
 - [USDL](https://www.paxos.com/blog/paxos-international-partners-with-predicate-to-meet-regulatory-requirements-for-lift-dollar-on-uniswap): Stable coin issued by Paxos with built‑in compliance checks of verification of AML/CFT compliance and jurisdictional restrictions.
 - [Zora](https://zora.co/): Creator coin launchpad that utilizes hooks for fee conversion into payout token and reward distribution.
 - [Clanker](https://www.clanker.world/): Meme coin launchpad that uses hooks for protocol fee management and MEV module integration.
+- [Ohara](https://ohara.ai/): Vibe-coded app and token launchpad that utilizes hooks.
+- [Pubhouse](https://www.pubhouse.xyz/): Prediction token market platform where user can create and trade any belief or prediction.
 
 ### From Uniswap
 
