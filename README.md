@@ -140,6 +140,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Encrypted Limit Order Hook](https://github.com/marronjo/iceberg-cofhe): A hook that enables FHE encrypted 'iceberg' orders. Utilising the [Fhenix](https://www.fhenix.io/) coprocessor for encryption/decryption operations to allow users to keep their order size and direction hidden.
 - [Detox Hook](https://ethglobal.com/showcase/detox-hook-mppeg): A hook that turns MEV into LP earnings, using Pyth oracle data to detect arbitrage, capture profits, and redirect value back to liquidity providers.
 - [PureFi Verifier Hook](https://github.com/purefiprotocol/purefi-verifier-hook): A compliance-focused hook ensuring that all transactions meet specified compliance criteria.
+- [Orbital Hook](https://github.com/Dhruv-2003/ethglobal-buenos-aires-25): A Uniswap V4 Hook implementing a custom spherical AMM curve for efficient stable asset swaps.
 
 ### From Hackathon
 
