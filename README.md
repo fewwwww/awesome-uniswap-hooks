@@ -332,6 +332,7 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 - [Sandwich-resistant Hook](https://x.com/cairoeth/status/1825593789492375925): A sandwich-resistant Uniswap v4 hook based on "A SANDWICH-RESISTANT AMM" from Umbra Research.
 - [The Null Fee Idea](https://github.com/subtrahend-labs/research/blob/main/the-null-fee.pdf): A novel type of indicator called the null fee that may be a useful ingredient in the design of a dynamic fee algorithms for concentrated liquidity and constant product AMMs.
 - [Doppler](https://x.com/AustinAdams10/status/1833505856056660026): A liquidity-bootstrapping hook design on top of Uniswap v4.
+- [Simple AMM in Optimization Arena](https://www.optimizationarena.com/amm): Dan Robinson & Benedict Brady's AMM Challenge that everyone can submit Uniswap v4-style Solidity hooks for dynamic fees, compete to maximize Edge against a 30bps benchmark in randomized simulations, and top the leaderboard
 
 ## 👀 See Also
 
