@@ -142,6 +142,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Detox Hook](https://ethglobal.com/showcase/detox-hook-mppeg): A hook that turns MEV into LP earnings, using Pyth oracle data to detect arbitrage, capture profits, and redirect value back to liquidity providers.
 - [PureFi Verifier Hook](https://github.com/purefiprotocol/purefi-verifier-hook): A compliance-focused hook ensuring that all transactions meet specified compliance criteria.
 - [Orbital Hook](https://github.com/Dhruv-2003/ethglobal-buenos-aires-25): A Uniswap V4 Hook implementing a custom spherical AMM curve for efficient stable asset swaps.
+- [SafeSwap](https://github.com/zontak/SafeSwap): Anti-rug and anti-whale protection hook with sell rate limiting, cooldowns, progressive fees (0.3%-5%), and launch protection mode. Immutable config per pool. Live on Arbitrum One.
 
 ### From Hackathon
 
