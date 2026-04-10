@@ -274,6 +274,7 @@ _These are templates for writing Uniswap V4 Hooks._
 
 ## 🎓 Tutorials
 
+- [LearnAI — Uniswap Interactive Course](https://www.uselearnai.com/chat?topic=Uniswap+DeFi) — AI-powered personal tutor for learning Uniswap from scratch through conversation
 _Empower your learning curve with these insightful tutorials._
 
 - [Uniswap Foundation: v4 by Example](https://www.v4-by-example.org/): This website shows Solidity snippets for integrating and using Uniswap v4. This is an introduction to integrating and using Uniswap v4 through simple examples.
