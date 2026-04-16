@@ -7,6 +7,7 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 Special thanks to Uniswap Foundation for [including this resource in the official doc](https://web.archive.org/web/20230915081852/https://docs.uniswapfoundation.org/hooks/hook-examples) and [mentioning this work in the blog](https://web.archive.org/web/20231019143600/https://blog.uniswap.org/uniswap-v4-community-contributions)!
 
 ## 📑 Table of Contents
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 - [🦄️ Awesome Uniswap v4 Hooks](#️-awesome-uniswap-v4-hooks)
   - [📑 Table of Contents](#-table-of-contents)
