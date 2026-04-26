@@ -88,6 +88,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Clanker](https://www.clanker.world/): Meme coin launchpad that uses hooks for protocol fee management and MEV module integration.
 - [Ohara](https://ohara.ai/): Vibe-coded app and token launchpad that utilizes hooks.
 - [Pubhouse](https://www.pubhouse.xyz/): Prediction token market platform where user can create and trade any belief or prediction.
+- [The Pool](https://pool.nativebtc.org/): Uniswap v4 dynamic-fee hook and ERC-4626 vault on Arbitrum that converts swap fees into auto-compounding LP-linked yield via a 20/80 treasury-to-LP fee split.
 
 ### From Uniswap
 
