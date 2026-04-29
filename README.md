@@ -88,6 +88,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Clanker](https://www.clanker.world/): Meme coin launchpad that uses hooks for protocol fee management and MEV module integration.
 - [Ohara](https://ohara.ai/): Vibe-coded app and token launchpad that utilizes hooks.
 - [Pubhouse](https://www.pubhouse.xyz/): Prediction token market platform where user can create and trade any belief or prediction.
+- [UniCat](https://unicat.live/): The first Uniswap v4 hook combined with an ERC-721 NFT collection (888 hard cap) and staking miner on Ethereum mainnet. UniCat utilizes Uniswap v4 hook to inject swap entropy for on-chain SVG cat generation and to track LP positions, with admin power permanently renounced via lockConfig().
 
 ### From Uniswap
 
