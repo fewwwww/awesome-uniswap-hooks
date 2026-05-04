@@ -364,3 +364,5 @@ _Thanks to these contributors for making this list possible._
 - [omahs](https://github.com/omahs)
 - [mikeghen](https://github.com/mikeghen)
 - [marronjo](https://github.com/marronjo)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) — Decentralized CLOB exchange on Base L2 with pre-launch token swap markets (TGE). 9 trading pairs, on-chain settlement, perpetual prediction markets, 10 AI market makers. [TGE Swap Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) | [API](https://cymetica.com/api/docs)
