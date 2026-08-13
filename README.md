@@ -257,6 +257,7 @@ _Utilize these tools to boost your development process._
 - [Uniswap v4 Minimal](https://github.com/0xaaiden/uniswap-v4-minimal): Minimal subgraph for Uniswap v4.
 - [Uniswap V4 Hook Address Miner](https://v4hookaddressminer.xyz/): Fast multithreaded Uniswap V4 hook vanity address miner online tool.
 - [Uniswap Hooks Claude Code Plugin](https://github.com/Uniswap/uniswap-ai/tree/main/packages/plugins/uniswap-hooks): AI-powered, security-first assistance for creating Uniswap v4 hooks.
+- [Hook Safety Gate](https://github.com/blazephoenixxyz-crypto/hook-safety-gate-v3): A default-closed admission gate for the routing side of hook safety, for routers and aggregators rather than for hook authors. It screens delta-returning hooks by address bitmask, pins each admitted hook's `EXTCODEHASH` so a proxy upgrade or redeploy stops it being routable, and puts delta hooks behind a two-step timelocked admission that reverts if the code changes between proposal and confirmation. Zero external dependencies, one line to integrate.
 
 
 ## 📐 Templates
