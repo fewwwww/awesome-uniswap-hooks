@@ -257,6 +257,7 @@ _Utilize these tools to boost your development process._
 - [Uniswap v4 Minimal](https://github.com/0xaaiden/uniswap-v4-minimal): Minimal subgraph for Uniswap v4.
 - [Uniswap V4 Hook Address Miner](https://v4hookaddressminer.xyz/): Fast multithreaded Uniswap V4 hook vanity address miner online tool.
 - [Uniswap Hooks Claude Code Plugin](https://github.com/Uniswap/uniswap-ai/tree/main/packages/plugins/uniswap-hooks): AI-powered, security-first assistance for creating Uniswap v4 hooks.
+- [HookGuard](https://github.com/chaosxcode/hookguard): Risk scanner for Uniswap v4 hooks, runnable as a GitHub Action on every pull request. Flags documented v4 risk patterns (permissionless pool attachment, missing PoolManager guards, delta-flag mismatches, unbounded dynamic fees) with inline annotations. Also publishes a [risk profile of all 486 hooks](https://chaosxcode.github.io/hookguard/) in Uniswap's official registry. Heuristic, not an audit.
 
 
 ## 📐 Templates
