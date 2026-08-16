@@ -257,6 +257,7 @@ _Utilize these tools to boost your development process._
 - [Uniswap v4 Minimal](https://github.com/0xaaiden/uniswap-v4-minimal): Minimal subgraph for Uniswap v4.
 - [Uniswap V4 Hook Address Miner](https://v4hookaddressminer.xyz/): Fast multithreaded Uniswap V4 hook vanity address miner online tool.
 - [Uniswap Hooks Claude Code Plugin](https://github.com/Uniswap/uniswap-ai/tree/main/packages/plugins/uniswap-hooks): AI-powered, security-first assistance for creating Uniswap v4 hooks.
+- [Aeon](https://github.com/aeonfun/aeon): Autonomous agent framework whose `deploy-uni-hook` skill turns a plain-text prompt into a deployed Uniswap v4 hook. It handles freeform hook generation, auto-derives the hook permission flags, and gates on a static audit plus behavioral forge tests and a fork simulation before it deploys and verifies on Base. Useful for prompt-to-hook deployment without hand-writing the contract.
 
 
 ## 📐 Templates
