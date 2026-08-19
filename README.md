@@ -143,6 +143,7 @@ _A collection of hooks from Uniswap and community developers._
 - [PureFi Verifier Hook](https://github.com/purefiprotocol/purefi-verifier-hook): A compliance-focused hook ensuring that all transactions meet specified compliance criteria.
 - [Orbital Hook](https://github.com/Dhruv-2003/ethglobal-buenos-aires-25): A Uniswap V4 Hook implementing a custom spherical AMM curve for efficient stable asset swaps.
 - [SafeSwap](https://github.com/zontak/SafeSwap): Anti-rug and anti-whale protection hook with sell rate limiting, cooldowns, progressive fees (0.3%-5%), and launch protection mode. Immutable config per pool. Live on Arbitrum One.
+- [Midas Hooks](https://github.com/thecvretoken/midas-rwa-hook): A set of hooks pairing tokens against non-ETH quote assets — PAXG (gold) and tokenized stocks — with decay-priced anti-snipe protection using a linearly decaying buy-side surcharge instead of blacklists or pause switches. Immutable constructor-capped fees, no setter, pause or blacklist, and no liquidity permissions. Live on Robinhood Chain. Unaudited.
 
 ### From Hackathon
 
