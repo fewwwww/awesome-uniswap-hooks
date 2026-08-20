@@ -258,6 +258,7 @@ _Utilize these tools to boost your development process._
 - [Uniswap V4 Hook Address Miner](https://v4hookaddressminer.xyz/): Fast multithreaded Uniswap V4 hook vanity address miner online tool.
 - [Uniswap Hooks Claude Code Plugin](https://github.com/Uniswap/uniswap-ai/tree/main/packages/plugins/uniswap-hooks): AI-powered, security-first assistance for creating Uniswap v4 hooks.
 - [Hook Safety Gate](https://github.com/blazephoenixxyz-crypto/hook-safety-gate-v3): A default-closed admission gate for the routing side of hook safety, for routers and aggregators rather than for hook authors. It screens delta-returning hooks by address bitmask, pins each admitted hook's `EXTCODEHASH` so a proxy upgrade or redeploy stops it being routable, and puts delta hooks behind a two-step timelocked admission that reverts if the code changes between proposal and confirmation. Zero external dependencies, one line to integrate.
+- [v4 Hook Custody Decoder](https://x402.donnyautomation.com/demo/v4hooks/0x000052423c1dB6B7ff8641b85A7eEfc7B2791888): Free API that decodes any Base v4 hook address into its 14 permission bits, a custody class (PASSIVE/FLOW_CONTROL/FEE_TAKING/SWAP_CUSTODY/OPAQUE), and a three-source verification state. This can help traders and integrators see what a pool's hook is permitted to do before interacting with it.
 
 
 ## 📐 Templates
