@@ -143,6 +143,7 @@ _A collection of hooks from Uniswap and community developers._
 - [PureFi Verifier Hook](https://github.com/purefiprotocol/purefi-verifier-hook): A compliance-focused hook ensuring that all transactions meet specified compliance criteria.
 - [Orbital Hook](https://github.com/Dhruv-2003/ethglobal-buenos-aires-25): A Uniswap V4 Hook implementing a custom spherical AMM curve for efficient stable asset swaps.
 - [SafeSwap](https://github.com/zontak/SafeSwap): Anti-rug and anti-whale protection hook with sell rate limiting, cooldowns, progressive fees (0.3%-5%), and launch protection mode. Immutable config per pool. Live on Arbitrum One.
+- [Fee Hooks](https://github.com/dngr2/v4-fee-hooks): Three fee-earning reference hooks, each with a bounded builder fee verified against the invariant suite above: a volatility-scaled dynamic-fee hook, an auto-compounding liquidity vault, and an on-chain limit-order hook. Foundry-tested.
 
 ### From Hackathon
 
@@ -257,6 +258,7 @@ _Utilize these tools to boost your development process._
 - [Uniswap v4 Minimal](https://github.com/0xaaiden/uniswap-v4-minimal): Minimal subgraph for Uniswap v4.
 - [Uniswap V4 Hook Address Miner](https://v4hookaddressminer.xyz/): Fast multithreaded Uniswap V4 hook vanity address miner online tool.
 - [Uniswap Hooks Claude Code Plugin](https://github.com/Uniswap/uniswap-ai/tree/main/packages/plugins/uniswap-hooks): AI-powered, security-first assistance for creating Uniswap v4 hooks.
+- [v4-hook-invariants](https://github.com/dngr2/v4-hook-invariants): Property-based invariant tests for v4 hooks. Puts a real PoolManager plus the hook under test into a Foundry invariant harness and fuzzes swaps against reusable predicates (fee bound, claim/reserve solvency) to check a hook can't over-skim swaps or drain LP reserves.
 
 
 ## 📐 Templates
