@@ -259,6 +259,7 @@ _Utilize these tools to boost your development process._
 - [Uniswap V4 Hook Address Miner](https://v4hookaddressminer.xyz/): Fast multithreaded Uniswap V4 hook vanity address miner online tool.
 - [Uniswap Hooks Claude Code Plugin](https://github.com/Uniswap/uniswap-ai/tree/main/packages/plugins/uniswap-hooks): AI-powered, security-first assistance for creating Uniswap v4 hooks.
 - [v4-hook-invariants](https://github.com/dngr2/v4-hook-invariants): Property-based invariant tests for v4 hooks. Puts a real PoolManager plus the hook under test into a Foundry invariant harness and fuzzes swaps against reusable predicates (fee bound, claim/reserve solvency) to check a hook can't over-skim swaps or drain LP reserves.
+- [v4-hookguard](https://github.com/dngr2/v4-hookguard): Drop-in Foundry checks for the v4 hook security footguns v4 core does not catch. An unprotected-callback check detects an active hook callback that isn't gated to the PoolManager (letting anyone drive the hook's oracle/accounting state), and an address-bitmap lint catches return-delta-without-base and dead-hook misconfigurations. Each check ships with a correct and a deliberately-broken reference hook.
 
 
 ## 📐 Templates
