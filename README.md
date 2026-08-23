@@ -88,6 +88,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Clanker](https://www.clanker.world/): Meme coin launchpad that uses hooks for protocol fee management and MEV module integration.
 - [Ohara](https://ohara.ai/): Vibe-coded app and token launchpad that utilizes hooks.
 - [Pubhouse](https://www.pubhouse.xyz/): Prediction token market platform where user can create and trade any belief or prediction.
+- [GlueHook](https://gluehook.trade/): Free general-purpose hook that gives any pool a permissionless buyback pot (buys on buys, absorbs sells at the pool's exact price, burns what it buys) and a self-compounding LP with configurable fee splits. Keyless, non-upgradeable, 0% protocol fee, same address on 13+ networks.
 
 ### From Uniswap
 
