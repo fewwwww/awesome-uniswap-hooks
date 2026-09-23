@@ -100,6 +100,7 @@ _A collection of hooks from Uniswap and community developers._
 
 ### From Community
 
+- [Werracle Chaos-Adaptive Dynamic Fee Hook](https://github.com/pCwOrM/werracle/blob/main/contracts/hooks/WerracleFeeHook.sol): A zero-storage Uniswap v4 dynamic fee hook evaluating real-time orderbook chaos using procedural Mandelbrot escape dynamics (~23k gas). Dynamically adjusts LP fees between 0.05% and 0.50% atomically inside the swap.
 - [Multi-Sig](https://github.com/atj3097/mfa-multisig-hook-v4/tree/main): Requires multiple signatures for certain pool actions, such as adding or removing liquidity. This can be used to add an extra layer of security to a pool.
 - [Whitelist](https://github.com/atj3097/whitelist-hook): Restricts pool participation to a whitelist of approved addresses. This can be used to prevent certain people from participating in a pool, such as people who have been banned from the platform or people who are considered to be high-risk traders.
 - [Old Account](https://github.com/jdubpark/Uniswap-Hooks/blob/main/contracts/OldAccountHook.sol): Allows only old accounts to use the pool. Old is subjective; it's the hook owner's job to define "old".
