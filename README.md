@@ -143,6 +143,7 @@ _A collection of hooks from Uniswap and community developers._
 - [PureFi Verifier Hook](https://github.com/purefiprotocol/purefi-verifier-hook): A compliance-focused hook ensuring that all transactions meet specified compliance criteria.
 - [Orbital Hook](https://github.com/Dhruv-2003/ethglobal-buenos-aires-25): A Uniswap V4 Hook implementing a custom spherical AMM curve for efficient stable asset swaps.
 - [SafeSwap](https://github.com/zontak/SafeSwap): Anti-rug and anti-whale protection hook with sell rate limiting, cooldowns, progressive fees (0.3%-5%), and launch protection mode. Immutable config per pool. Live on Arbitrum One.
+- [Dev-Drip and Sniper Rebate (PumpPill)](https://github.com/JackedBased/pumppill-hooks): Launch protection on Robinhood Chain. A creator buys their own bag through a router that escrows it into a vault with per-tranche cliffs (a lock a buyer can verify on the explorer instead of trusting a promise), and a hook that pays early holders from a declining sell tax. Deployed and verified on chain 4663, MIT, Foundry tests.
 
 ### From Hackathon
 
