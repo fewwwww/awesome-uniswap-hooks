@@ -258,6 +258,7 @@ _Utilize these tools to boost your development process._
 - [Uniswap V4 Hook Address Miner](https://v4hookaddressminer.xyz/): Fast multithreaded Uniswap V4 hook vanity address miner online tool.
 - [Uniswap Hooks Claude Code Plugin](https://github.com/Uniswap/uniswap-ai/tree/main/packages/plugins/uniswap-hooks): AI-powered, security-first assistance for creating Uniswap v4 hooks.
 - [v4 Hook Custody Decoder](https://x402.donnyautomation.com/demo/v4hooks/0x000052423c1dB6B7ff8641b85A7eEfc7B2791888): Free API that decodes any Base v4 hook address into its 14 permission bits, a custody class (PASSIVE/FLOW_CONTROL/FEE_TAKING/SWAP_CUSTODY/OPAQUE), and a three-source verification state. This can help traders and integrators see what a pool's hook is permitted to do before interacting with it.
+- [HEY Research Lab v4 hooks](https://heyresearch.xyz/integrations/uniswap/hooks): Uniswap v4 hooks on Robinhood Chain tied to the projects that built them, each with how the tie was made (proven on chain, listed by the project, made by its factory or confirmed in review), its callbacks and first pool. Free API (`/api/v4-hooks`) and MCP. This can help builders and integrators see who stands behind a hook; it does not rank or score hooks.
 
 
 ## 📐 Templates
