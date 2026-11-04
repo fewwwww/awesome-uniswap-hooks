@@ -144,6 +144,8 @@ _A collection of hooks from Uniswap and community developers._
 - [Orbital Hook](https://github.com/Dhruv-2003/ethglobal-buenos-aires-25): A Uniswap V4 Hook implementing a custom spherical AMM curve for efficient stable asset swaps.
 - [SafeSwap](https://github.com/zontak/SafeSwap): Anti-rug and anti-whale protection hook with sell rate limiting, cooldowns, progressive fees (0.3%-5%), and launch protection mode. Immutable config per pool. Live on Arbitrum One.
 
+- [Anti-LVR Dynamic Volatility Fee Hook](https://github.com/basantzp/v4-volatility-fee-hook): A dynamic fee hook that monitors realized tick variance with exponential moving average decay to mitigate Loss-Versus-Rebalancing (LVR) and adverse selection on high-volatility pairs.
+
 ### From Hackathon
 
 **[ETHGlobal Brussels 2024](https://x.com/UniswapFND/status/1813647336427647474)**
