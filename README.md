@@ -143,6 +143,8 @@ _A collection of hooks from Uniswap and community developers._
 - [PureFi Verifier Hook](https://github.com/purefiprotocol/purefi-verifier-hook): A compliance-focused hook ensuring that all transactions meet specified compliance criteria.
 - [Orbital Hook](https://github.com/Dhruv-2003/ethglobal-buenos-aires-25): A Uniswap V4 Hook implementing a custom spherical AMM curve for efficient stable asset swaps.
 - [SafeSwap](https://github.com/zontak/SafeSwap): Anti-rug and anti-whale protection hook with sell rate limiting, cooldowns, progressive fees (0.3%-5%), and launch protection mode. Immutable config per pool. Live on Arbitrum One.
+- [Spraay BatchDistributeHook](https://github.com/plagtech/spraay-uniswap-v4-hook): A hook for batch-distributing ERC-20 tokens or ETH to up to 200 recipients in a single transaction via Spraay Protocol. Uses `afterInitialize` and `afterDonate` callbacks as a composable utility hook — ~60% gas savings vs. individual transfers. Includes an SDK adapter in [`@spraay/dex-adapters`](https://www.npmjs.com/package/@spraay/dex-adapters).
+- [SwapAndSpray](https://github.com/plagtech/spraay-swap-and-spray): A callback hook that uses `afterSwap` with a return delta to pay a swap's output to up to 200 recipients in one transaction via Spraay, on pools that attach it. Includes a pool-agnostic router for any v4 pool.
 
 ### From Hackathon
 
