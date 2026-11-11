@@ -88,6 +88,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Clanker](https://www.clanker.world/): Meme coin launchpad that uses hooks for protocol fee management and MEV module integration.
 - [Ohara](https://ohara.ai/): Vibe-coded app and token launchpad that utilizes hooks.
 - [Pubhouse](https://www.pubhouse.xyz/): Prediction token market platform where user can create and trade any belief or prediction.
+- [Chain Daddy](https://chaindaddy.io/): Coin launchpad whose Protected open and Boost launches run on Doppler's Uniswap v4 hooks (a Dutch auction or a decaying opening fee against snipers, and buybacks made inside each swap) on Base, Ethereum, Arbitrum, BNB Chain and Robinhood Chain. It deploys no hook of its own.
 
 ### From Uniswap
 
