@@ -88,6 +88,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Clanker](https://www.clanker.world/): Meme coin launchpad that uses hooks for protocol fee management and MEV module integration.
 - [Ohara](https://ohara.ai/): Vibe-coded app and token launchpad that utilizes hooks.
 - [Pubhouse](https://www.pubhouse.xyz/): Prediction token market platform where user can create and trade any belief or prediction.
+- [PrimeHash](https://primehash.org/) ([source](https://etherscan.io/address/0x22Fc32f6AbF32EC820207dD6751a9334CeE320cc#code)): Liquidity mining where liquidity is hashpower. PrimeHash utilizes Uniswap v4 hook to take a 3% ETH swap fee shared with full-range LPs subscribed through a PositionManager subscriber, streamed over a day to defeat JIT liquidity, while subscribed positions mine PRIME every block with Bitcoin-style halvings.
 
 ### From Uniswap
 
